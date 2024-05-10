@@ -34,6 +34,8 @@
 
 * **[arXiv]** Hierarchical Diffusion Policy for Kinematics-Aware Multi-Task Robotic Manipulation, [arXiv](https://yusufma03.github.io/projects/hdp/)
 
+DiffuseLoco: Real-Time Legged Locomotion Control with Diffusion from Offline Datasets
+
 ## LCM
 
 
