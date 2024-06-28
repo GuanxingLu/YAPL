@@ -22,7 +22,10 @@
 * **[arXiv:2406]** L4GM: Large 4D Gaussian Reconstruction Model, no code yet
 * **[3DV'24]** Dynamic 3D Gaussians: Tracking by Persistent Dynamic View Synthesis, good code
 * **[CVPR'24]** 4D Gaussian Splatting for Real-Time Dynamic Scene Rendering
-
+* **[CVPR'24]** Spacetime gaussian feature splatting for real-time dynamic view synthesis
+* **[CVPR'24]**, Gaussian-Flow: 4D Reconstruction with Dynamic 3D Gaussian Particle, no code yet
+* **[ICLR'24]**, Real-time Photorealistic Dynamic Scene Representation and Rendering with 4D Gaussian Splatting
+> Large-scale scene results
 
 
 # Gaussian Splatting for manipulation
