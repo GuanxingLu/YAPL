@@ -7,6 +7,9 @@
 * **[CoRL'23 Oral]** GNFactor: Multi-Task Real Robot Learning with Generalizable Neural Feature Fields
 > Generalizable MLP + Diffusion prior
 
+* **[CoRL'22 Oral]** Evo-NeRF: Evolving NeRF for Sequential Robot Grasping of Transparent Objects, no code
+> Eye-in-hand
+
 # Nerf for navigation
 
 * **[ICCV'23 NeRF4ADR Workshop]** AutoNeRF: Training Implicit Scene Representations with Autonomous Agents

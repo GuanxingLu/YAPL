@@ -36,6 +36,8 @@
 
 DiffuseLoco: Real-Time Legged Locomotion Control with Diffusion from Offline Datasets
 
+* **[NeurIPS'23 (Spotlight)]** Learning Universal Policies via Text-Guided Video Generation, UniPi
+
 ## LCM
 
 
