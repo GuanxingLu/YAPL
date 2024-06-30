@@ -13,9 +13,9 @@
 * **[CoRL'23 Oral]** GNFactor: Multi-Task Real Robot Learning with Generalizable Neural Feature Fields
 > Generalizable MLP + Diffusion prior
 * **[CoRL'22 Oral]** Evo-NeRF: Evolving NeRF for Sequential Robot Grasping of Transparent Objects, no code
-> Eye-in-hand
+> Eye-in-hand, grasping confidence with rgbd
 * **[CVPR'23]** NeRF in the Palm of Your Hand: Corrective Augmentation for Robotics via Novel-View Synthesis, no code
-> Generate a perturbed pose, and render the corresponding image and action.
+> Eye-in-hand, generate a perturbed pose, and render the corresponding image and action.
 * **[arXiv:2405]** NeRF in Robotics: A Survey
 
 # NeRF for navigation
