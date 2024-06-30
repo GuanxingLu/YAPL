@@ -8,6 +8,7 @@
 # NeRF for manipulation
 
 * **[CoRL'21 Oral]** 3D Neural Scene Representations for Visuomotor Control
+> Given a goal image, use model-predictive path integral (MPPI) to control the end-effortor with learned world model.
 * **[CoRL'23 Oral]** GNFactor: Multi-Task Real Robot Learning with Generalizable Neural Feature Fields
 > Generalizable MLP + Diffusion prior
 * **[CoRL'22 Oral]** Evo-NeRF: Evolving NeRF for Sequential Robot Grasping of Transparent Objects, no code
