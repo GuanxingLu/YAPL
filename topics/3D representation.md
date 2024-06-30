@@ -9,6 +9,7 @@
 * **[CoRL'22 Oral]** Evo-NeRF: Evolving NeRF for Sequential Robot Grasping of Transparent Objects, no code
 > Eye-in-hand
 * **[CVPR'23]** NeRF in the Palm of Your Hand: Corrective Augmentation for Robotics via Novel-View Synthesis, no code
+* **[arXiv:2405]** NeRF in Robotics: A Survey
 
 # Nerf for navigation
 
