@@ -1,7 +1,11 @@
-# Nerf
+# NeRF
+
+# 4D NeRF
+
+* **[CVPR'21]** Space-time Neural Irradiance Fields for Free-Viewpoint Video, no code
 
 
-# Nerf for manipulation
+# NeRF for manipulation
 
 * **[CoRL'21 Oral]** 3D Neural Scene Representations for Visuomotor Control
 * **[CoRL'23 Oral]** GNFactor: Multi-Task Real Robot Learning with Generalizable Neural Feature Fields
@@ -9,9 +13,10 @@
 * **[CoRL'22 Oral]** Evo-NeRF: Evolving NeRF for Sequential Robot Grasping of Transparent Objects, no code
 > Eye-in-hand
 * **[CVPR'23]** NeRF in the Palm of Your Hand: Corrective Augmentation for Robotics via Novel-View Synthesis, no code
+> Generate a perturbed pose, and render the corresponding image and action.
 * **[arXiv:2405]** NeRF in Robotics: A Survey
 
-# Nerf for navigation
+# NeRF for navigation
 
 * **[ICCV'23 NeRF4ADR Workshop]** AutoNeRF: Training Implicit Scene Representations with Autonomous Agents
 > Downstream tasks
