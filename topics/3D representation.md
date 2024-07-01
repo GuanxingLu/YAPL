@@ -4,6 +4,7 @@
 
 * **[CVPR'21]** Space-time Neural Irradiance Fields for Free-Viewpoint Video, no code
 * **[ICCV'21]** Nerfies: Deformable Neural Radiance Fields
+* **[CVPR'22 Oral]** BANMo: Building Animatable 3D Neural Models from Many Casual Videos
 
 # NeRF for manipulation
 
@@ -30,6 +31,8 @@
 
 # 4D Gaussian Splatting
 
+Ref: https://github.com/MrNeRF/awesome-3D-gaussian-splatting?tab=readme-ov-file#dynamics-and-deformation
+
 * **[arXiv:2406]** L4GM: Large 4D Gaussian Reconstruction Model, no code yet
 * **[3DV'24]** Dynamic 3D Gaussians: Tracking by Persistent Dynamic View Synthesis, good code
 > Synchronized multi-camera systems
@@ -39,7 +42,17 @@
 * **[CVPR'24]**, Gaussian-Flow: 4D Reconstruction with Dynamic 3D Gaussian Particle, no code yet
 * **[ICLR'24]**, Real-time Photorealistic Dynamic Scene Representation and Rendering with 4D Gaussian Splatting
 > Large-scale scene results
-* **[CVPR'22 Oral]** BANMo: Building Animatable 3D Neural Models from Many Casual Videos
+* **[CVPR'24]** 3D Geometry-aware Deformable Gaussian Splatting for Dynamic View Synthesis
+* **[arXiv:2402]** 4D Gaussian Splatting: Towards Efficient Novel View Synthesis for Dynamic Scenes
+* **[CVPR'24]** Deformable 3D Gaussians for High-Fidelity Monocular Dynamic Scene Reconstruction
+* **[arXiv:2404]** Per-Gaussian Embedding-Based Deformation for Deformable 3D Gaussian Splatting
+> latent code + coarse&fine time embedding
+* **[arXiv:2311]** An Efficient 3D Gaussian Representation for Monocular/Multi-view Dynamic Scenes
+* **[CVPR'24]** CoGS: Controllable Gaussian Splatting, no code
+* **[CVPR'24]** Gaussian-Flow: 4D Reconstruction with Dynamic 3D Gaussian Particle
+* **[arXiv:2312]** MD-Splatting: Learning Metric Deformation from 4D Gaussians in Highly Deformable Scenes, Shuran Song, no code yet
+* **[CVPR'24]** 3DGStream: On-the-Fly Training of 3D Gaussians for Efficient Streaming of
+Photo-Realistic Free-Viewpoint Videos
 
 # Gaussian Splatting for manipulation
 
