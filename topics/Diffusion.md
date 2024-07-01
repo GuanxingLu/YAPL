@@ -38,6 +38,8 @@ DiffuseLoco: Real-Time Legged Locomotion Control with Diffusion from Offline Dat
 
 * **[NeurIPS'23 (Spotlight)]** Learning Universal Policies via Text-Guided Video Generation, UniPi
 
+* **[arxiv:2405]** Render and Diffuse: Aligning Image and Action Spaces for Diffusion-based Behaviour Cloning 
+
 ## LCM
 
 
