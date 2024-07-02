@@ -53,6 +53,7 @@ Ref: https://github.com/MrNeRF/awesome-3D-gaussian-splatting?tab=readme-ov-file#
 * **[arXiv:2312]** MD-Splatting: Learning Metric Deformation from 4D Gaussians in Highly Deformable Scenes, Shuran Song, no code yet
 * **[CVPR'24]** 3DGStream: On-the-Fly Training of 3D Gaussians for Efficient Streaming of
 Photo-Realistic Free-Viewpoint Videos
+* **[arxiv:2406]** EgoGaussian: Dynamic Scene Understanding from Egocentric Video with 3D Gaussian Splatting
 
 # Gaussian Splatting for manipulation
 
