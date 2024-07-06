@@ -9,3 +9,6 @@
 
 * **[RSS'24]** Universal Manipulation Interface：In-The-Wild Robot Teaching Without In-The-Wild Robots
 > Tracking + SLAM
+
+* **[CoRL'23]** MimicGen: A Data Generation System for Scalable Robot Learning using Human Demonstrations
+> Subtask segment + Hardcoded augmentation
