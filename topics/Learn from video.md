@@ -7,3 +7,5 @@
 
 * **[arXiv:2402]** Video as the New Language for Real-World Decision Making, Sherry Yang
 
+* **[RSS'24]** Universal Manipulation Interface：In-The-Wild Robot Teaching Without In-The-Wild Robots
+> Tracking + SLAM
