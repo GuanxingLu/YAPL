@@ -16,6 +16,9 @@
 * **[arXiv:2405]** ORION: Vision-based Manipulation from Single Human Video with Open-World Object Graph
 > Open-world object graphs
 
+* **[CoRL'23]** MimicPlay: Long-Horizon Imitation Learning by Watching Human Play
+> Large human video -> latent plan, GMM decoder + small robot data
+
 # World Model
 
 * **[ICLR'24 Outstanding]** Learning Interactive Real-World Simulators
