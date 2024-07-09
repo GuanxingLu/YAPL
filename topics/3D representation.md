@@ -5,6 +5,7 @@
 * **[CVPR'21]** Space-time Neural Irradiance Fields for Free-Viewpoint Video, no code
 * **[ICCV'21]** Nerfies: Deformable Neural Radiance Fields
 * **[CVPR'22 Oral]** BANMo: Building Animatable 3D Neural Models from Many Casual Videos
+* **[CVPR'24]** Video2Game: Real-time, Interactive, Realistic and Browser-Compatible Environment from a Single Video
 
 # NeRF for manipulation
 
@@ -24,7 +25,6 @@
 * **[ICCV'23 NeRF4ADR Workshop]** AutoNeRF: Training Implicit Scene Representations with Autonomous Agents
 > Downstream tasks
 * **[arxiv'2403]** Learning Generalizable Feature Fields for Mobile Manipulation
-
 
 # Gaussian Splatting
 
