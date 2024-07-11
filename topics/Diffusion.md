@@ -40,6 +40,8 @@ DiffuseLoco: Real-Time Legged Locomotion Control with Diffusion from Offline Dat
 
 * **[arxiv:2405]** Render and Diffuse: Aligning Image and Action Spaces for Diffusion-based Behaviour Cloning 
 
+* **[arxiv:2407]** Generative Image as Action Models
+
 ## LCM
 
 
