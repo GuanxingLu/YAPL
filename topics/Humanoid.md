@@ -39,6 +39,8 @@
 * **[RSS'23]** Learning Fine-Grained Bimanual Manipulation with Low-Cost Hardware, [code](https://tonyzhaozh.github.io/aloha/)
 > Transfer Cube and Bimanual Insertion
 
+* **[ICLR'23]** ManiSkill2: A Unified Benchmark for Generalizable Manipulation Skills
+> two tasks
 
 ### Planning
 
