@@ -4,6 +4,8 @@
 
 * **[arxiv'2407]** Towards Open-World Mobile Manipulation in Homes: Lessons from the Neurips 2023 HomeRobot Open Vocabulary Mobile Manipulation Challenge
 
+* **[arxiv'2406]** RoboCasa: Large-Scale Simulation of Everyday Tasks for Generalist Robots
+
 ## Bimanual
 
 * **[arxiv'2403]** HumanoidBench: Simulated Humanoid Benchmark for Whole-Body Locomotion and Manipulation

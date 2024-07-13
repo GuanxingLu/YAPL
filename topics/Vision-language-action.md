@@ -4,6 +4,9 @@
 * **ECCV'22** : Extract free dense labels from clip
 > Used by GeFF to distill vision-language feature
 
+* **arxiv'2407**: Robotic Control via Embodied Chain-of-Thought Reasoning
+> VLA Chain-of-thought
+
 ## Vision-language Navigation
 
 * **arxiv:2407** : Vision-and-Language Navigation Today and Tomorrow: A Survey in the Era of Foundation Models
