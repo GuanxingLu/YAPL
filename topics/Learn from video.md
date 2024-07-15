@@ -24,3 +24,4 @@
 * **[ICLR'24 Outstanding]** Learning Interactive Real-World Simulators
 > UniSim, given o_{t-1} and a_{t-1), predict o_t
 
+* **[RSS'24]** Any-point Trajectory Modeling for Policy Learning

@@ -61,9 +61,20 @@ Photo-Realistic Free-Viewpoint Videos
 * **[arxiv:2406]** EgoGaussian: Dynamic Scene Understanding from Egocentric Video with 3D Gaussian Splatting, no code yet
 * **[arXiv:2401]** VR-GS: A Physical Dynamics-Aware Interactive Gaussian Splatting System in Virtual Reality, no code yet
 
-
 # Gaussian Splatting for manipulation
 
 * **[arxiv'2406]** Physically Embodied Gaussian Splatting: A Realtime Correctable World Model for Robotics
 * **[arxiv'2403]** ManiGaussian: Dynamic Gaussian Splatting for Multi-task Robotic Manipulation
 * **[arxiv'2405]** Object-Aware Gaussian Splatting for Robotic Manipulation
+
+# RGB-D
+
+* **[IROS'24]** VIHE: Transformer-Based 3D Object Manipulation Using Virtual In-Hand View
+
+# Multi-view
+
+* **[arXiv:2406]** 3D-MVP: 3D Multiview Pretraining for Robotic Manipulation
+
+# Point Cloud
+
+* **[arXiv:2403]** Near Real-Time SE(3)-Equivariant Robot Manipulation without Point Cloud Segmentation
