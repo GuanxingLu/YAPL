@@ -4,7 +4,6 @@
 > Sparse Neural Radiance Grid (SNeRG)
 
 
-
 # 4D NeRF
 
 * **[CVPR'21]** Space-time Neural Irradiance Fields for Free-Viewpoint Video, no code
@@ -24,6 +23,11 @@
 * **[CVPR'23]** NeRF in the Palm of Your Hand: Corrective Augmentation for Robotics via Novel-View Synthesis, no code
 > Eye-in-hand, generate a perturbed pose, and render the corresponding image and action.
 * **[arXiv:2405]** NeRF in Robotics: A Survey
+* **[RSS'24]** Reconciling Reality Through Simulation: A Real-to-Sim-to-Real Approach for Robust Manipulation
+
+* **[ICLR'24]** ASID: ACTIVE EXPLORATION FOR SYSTEM IDENTIFICATION IN ROBOTIC MANIPULATION
+* **[]** Scaling Robot-Learning by Crowdsourcing Simulation Environments
+
 
 # NeRF for navigation
 
@@ -78,3 +82,10 @@ Photo-Realistic Free-Viewpoint Videos
 # Point Cloud
 
 * **[arXiv:2403]** Near Real-Time SE(3)-Equivariant Robot Manipulation without Point Cloud Segmentation
+
+# LLM Code
+
+* **[arXiv:2404]** Re-Thinking Inverse Graphics With Large Language Models
+> Finetune a LLM to decode a visual (CLIP) embedding into graphics code
+
+
