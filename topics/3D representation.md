@@ -25,9 +25,14 @@
 * **[arXiv:2405]** NeRF in Robotics: A Survey
 * **[RSS'24]** Reconciling Reality Through Simulation: A Real-to-Sim-to-Real Approach for Robust Manipulation
 
-* **[ICLR'24]** ASID: ACTIVE EXPLORATION FOR SYSTEM IDENTIFICATION IN ROBOTIC MANIPULATION
-* **[]** Scaling Robot-Learning by Crowdsourcing Simulation Environments
+* **[ICLR'24 Oral]** ASID: ACTIVE EXPLORATION FOR SYSTEM IDENTIFICATION IN ROBOTIC MANIPULATION
 
+* **[DGR@RSS2024]** Scaling Robot-Learning by Crowdsourcing Simulation Environments
+
+* **[RSS'24]** URDFormer: A Pipeline for Constructing Articulated Simulation Environments from Real-World Images
+
+* **[CVPR'22 Oral]** Ditto: Building Digital Twins of Articulated Objects from Interaction
+>  Given visual observations before and after interaction, our method jointly reconstructs the part-level geometry and articulation model of the object.
 
 # NeRF for navigation
 
@@ -88,4 +93,5 @@ Photo-Realistic Free-Viewpoint Videos
 * **[arXiv:2404]** Re-Thinking Inverse Graphics With Large Language Models
 > Finetune a LLM to decode a visual (CLIP) embedding into graphics code
 
-
+* **[ICRA'24]** Gen2Sim: Scaling up Robot Learning in Simulation with Generative Models
+> Automating generation of 3D assets, task descriptions, task decompositions and reward functions

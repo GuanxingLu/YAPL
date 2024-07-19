@@ -8,3 +8,5 @@
 
 * **[arxiv:2108]** What Matters in Learning from Offline Human Demonstrations for Robot Manipulation
 > Robomimic, BC-RNN
+
+* **[NeurIPS'23]** RoboHive: A Unified Framework for Robot Learning

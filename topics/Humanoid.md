@@ -6,6 +6,9 @@
 
 * **[arxiv'2406]** RoboCasa: Large-Scale Simulation of Everyday Tasks for Generalist Robots
 
+* **[arXiv:2402]** Pushing the Limits of Cross-Embodiment Learning for Manipulation and Navigation
+> Diffusion policy
+
 ## Bimanual
 
 * **[arxiv'2403]** HumanoidBench: Simulated Humanoid Benchmark for Whole-Body Locomotion and Manipulation
