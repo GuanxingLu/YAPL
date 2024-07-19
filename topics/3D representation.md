@@ -95,3 +95,8 @@ Photo-Realistic Free-Viewpoint Videos
 
 * **[ICRA'24]** Gen2Sim: Scaling up Robot Learning in Simulation with Generative Models
 > Automating generation of 3D assets, task descriptions, task decompositions and reward functions
+
+# Diffusion
+
+* **[CVPR'24 Highlight]** PhyScene: Physically Interactable 3D Scene Synthesis for Embodied AI
+> Retrieve articulated objects from GAPartNet Dataset and simulate generated scenes in Omniverse Isaac Sim.
