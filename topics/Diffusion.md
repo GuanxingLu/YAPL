@@ -42,6 +42,21 @@ DiffuseLoco: Real-Time Legged Locomotion Control with Diffusion from Offline Dat
 
 * **[arxiv:2407]** Generative Image as Action Models
 
+* **[arXiv:2403]** DNAct: Diffusion Guided Multi-Task 3D Policy Learning
+> Similarity in multi-task demonstrations -> Diffusion
+
+## Trajectory
+
+* **[ICRA'24]** Robot Trajectron: Trajectory Prediction-Based Shared Control for Robot Manipulation
+
+* **[ICLR'24 Spotlight]** RT-Trajectory: Robotic Task Generalization via Hindsight Trajectory Sketches
+
+* **[arXiv:2402]** PIVOT: Iterative Visual Prompting Elicits Actionable Knowledge for VLMs
+> Select trajectory with VLM
+
+* **[arXiv:2406]** Scaling Manipulation Learning with Visual Kinematic Chain Prediction
+> Visual Kinematics Transformer (Pretraining) + tiny head
+
 ## LCM
 
 
