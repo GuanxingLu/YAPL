@@ -88,6 +88,11 @@
 * **[TRO'22]** Goal-conditioned dual-action imitation learning for dexterous dual-arm robot manipulation
 > Peel the banana, gaze policy, global and local action
 
+* **[ICLR'23]**  Dualafford: Learning collaborative visual affordance for dual-gripper manipulation
+> First Gripper Module, Second Gripper Module, Collaborative Adaption procedure
+
+Conclusion: Try to separate the visual observation of both arms.
+
 ### Planning
 
 - **[arxiv:2406]** DAG-Plan: Generating Directed Acyclic Dependency Graphs for Dual-Arm Cooperative Planning, no code yet, private env
