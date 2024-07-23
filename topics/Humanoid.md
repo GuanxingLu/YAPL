@@ -91,6 +91,9 @@
 * **[ICLR'23]**  Dualafford: Learning collaborative visual affordance for dual-gripper manipulation
 > First Gripper Module, Second Gripper Module, Collaborative Adaption procedure
 
+* **[arXiv:2309]** GELLO: A General, Low-Cost, and Intuitive Teleoperation Framework for Robot Manipulators
+> bimanual data collection system, used by VoxAct-B
+
 Conclusion: Try to separate the visual observation of both arms.
 
 ### Planning

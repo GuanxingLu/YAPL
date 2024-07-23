@@ -69,6 +69,7 @@ Ref: https://github.com/MrNeRF/awesome-3D-gaussian-splatting?tab=readme-ov-file#
 Photo-Realistic Free-Viewpoint Videos
 * **[arxiv:2406]** EgoGaussian: Dynamic Scene Understanding from Egocentric Video with 3D Gaussian Splatting, no code yet
 * **[arXiv:2401]** VR-GS: A Physical Dynamics-Aware Interactive Gaussian Splatting System in Virtual Reality, no code yet
+* **[CVPR'2024]** SC-GS: Sparse-Controlled Gaussian Splatting for Editable Dynamic Scenes
 
 # Gaussian Splatting for manipulation
 
