@@ -101,3 +101,7 @@ Conclusion: Try to separate the visual observation of both arms.
 - **[arxiv:2406]** DAG-Plan: Generating Directed Acyclic Dependency Graphs for Dual-Arm Cooperative Planning, no code yet, private env
 
 - **[arxiv:2407]** Bunny-VisionPro: Real-Time Bimanual Dexterous Teleoperation for Imitation Learning
+
+### Locomotion
+
+- **[RSS'24 Outstanding Nominee]** Advancing Humanoid Locomotion: Mastering Challenging Terrains with Denoising World Model Learning
