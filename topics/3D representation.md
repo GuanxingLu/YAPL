@@ -1,3 +1,29 @@
+# Optimization
+
+* **[ACM'11]** Kinectfusion: real-time 3d reconstruction and interaction using a moving depth camera
+
+* **[ICCV'09]** Building Rome in a Day
+> Our aim is to build a parallel distributed system that downloads all the images associated with a city, say Rome, from Flickr.com. After downloading, it matches these images to find common points and uses this information to compute the three dimensional structure of the city and the pose of the cameras that captured these images. All this to be done in a day.
+
+* **[IJRR'12]** Rgb-d mapping: Using kinectstyle depth cameras for dense 3d modeling of indoor environments
+
+* **[CVPR'21]** LASR: Learning Articulated Shape Reconstruction from a Monocular Video
+>  Given a monocular video of an object, we jointly recover the object’s rest shape S, skinning weights W, articulation Dt, and camera parameters Kt by solving an inverse graphics problem through gradient-based optimization.
+
+* **[CVPR'22]** Understanding 3D Object Articulation in Internet Videos
+> Given an ordinary video, our system produces a 3D planar representation of the observed articulation
+
+* **[CVPR'22]** Self-supervised Neural Articulated Shape and Appearance Models
+> After training from multi-view synthetic images of different states of object instances, our model can reconstruct and animate objects from static real-world images. 
+
+* **[CVPR'23]** CARTO: Category and Joint Agnostic Reconstruction of ARTiculated Objects
+
+* **[CVPR'23]** PARIS: Part-level Reconstruction and Motion Analysis for Articulated Objects
+> We learn a part-level reconstruction in two separate fields through composite rendering supervised by images in two given states simultaneously.
+
+* **[IROS'22]** Inferring Articulated Rigid Body Dynamics from RGBD Video
+
+
 # NeRF
 
 * **[ICCV'21 Oral]** Baking Neural Radiance Fields for Real-Time View Synthesis
