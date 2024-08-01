@@ -10,3 +10,7 @@
 > Robomimic, BC-RNN
 
 * **[NeurIPS'23]** RoboHive: A Unified Framework for Robot Learning
+
+* **[CoRL'23]** An Unbiased Look at Datasets for Visuo-Motor Pre-Training
+> no ego4d, but classical datasets are better
+

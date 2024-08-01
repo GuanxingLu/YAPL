@@ -23,6 +23,13 @@
 
 * **[IROS'22]** Inferring Articulated Rigid Body Dynamics from RGBD Video
 
+* **[arxiv:2207]** Structure from Action: Learning Interactions for 3D Articulated Object Structure Discovery
+
+* **[CVPR'23]** Phone2Proc: Bringing Robust Robots Into Our Chaotic World
+
+* **[ICRA'23]** Sim2Real2: Actively Building Explicit Physics Model for Precise Articulated Object Manipulation
+
+* **[ICRA'23]**  Ditto in the house: Building articulation models of indoor scenes through interactive perception
 
 # NeRF
 
