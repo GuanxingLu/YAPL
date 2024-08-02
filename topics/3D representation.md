@@ -36,6 +36,11 @@
 * **[ICCV'21 Oral]** Baking Neural Radiance Fields for Real-Time View Synthesis
 > Sparse Neural Radiance Grid (SNeRG)
 
+* **[ICCV'23]** RICO: Regularizing the Unobservable for Indoor Compositional Reconstruction
+> Semantic SDF, with background smoothing loss; Needs Depth, Normal prior & GT Instance mask
+
+* **[arXiv:2404]** PHYRECON: Physically Plausible Neural Scene Reconstruction
+> Surface Points Marching Cubes (SP-MC) enabling differentiable learning with both rendering and physical losses
 
 # 4D NeRF
 
