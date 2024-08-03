@@ -57,6 +57,12 @@ DiffuseLoco: Real-Time Legged Locomotion Control with Diffusion from Offline Dat
 * **[arXiv:2406]** Scaling Manipulation Learning with Visual Kinematic Chain Prediction
 > Visual Kinematics Transformer (Pretraining) + tiny head
 
+* **[arXiv:2402]** Bootstrapped Training for Tracking-Any-Point
+> Tracking Any Point (TAP)
+
+* **[RSS'24 Full marks]** Any-point Trajectory Modeling for Policy Learning
+> Track Transformer, Track-guided Policy Learning, LIBERO benchmark
+
 ## LCM
 
 
