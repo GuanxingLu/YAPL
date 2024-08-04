@@ -65,6 +65,7 @@ DiffuseLoco: Real-Time Legged Locomotion Control with Diffusion from Offline Dat
 
 ## LCM
 
+* **[arxiv'2406]** ManiCM: Real-time 3D Diffusion Policy via Consistency Model for Robotic Manipulation
 
 ## LCM for other applications
 
