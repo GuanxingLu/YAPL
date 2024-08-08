@@ -115,3 +115,8 @@ Conclusion: Try to separate the visual observation of both arms.
 ### Locomotion
 
 - **[RSS'24 Outstanding Nominee]** Advancing Humanoid Locomotion: Mastering Challenging Terrains with Denoising World Model Learning
+
+### Sim-to-Real
+
+- **[arXiv:2310]** Sim-to-Real Learning for Humanoid Box Loco-Manipulation
+> 5 Primitives
