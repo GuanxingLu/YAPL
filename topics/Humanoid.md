@@ -1,5 +1,11 @@
 # Humanoid
 
+## Teleoperation
+
+- **[arxiv:2407]** Bunny-VisionPro: Real-Time Bimanual Dexterous Teleoperation for Imitation Learning
+
+- **[arXiv:2407]** Open-TeleVision: Teleoperation with Immersive Active Visual Feedback.
+
 ## Mobile Manipulation
 
 * **[arxiv'2407]** Towards Open-World Mobile Manipulation in Homes: Lessons from the Neurips 2023 HomeRobot Open Vocabulary Mobile Manipulation Challenge
@@ -100,7 +106,11 @@ Conclusion: Try to separate the visual observation of both arms.
 
 - **[arxiv:2406]** DAG-Plan: Generating Directed Acyclic Dependency Graphs for Dual-Arm Cooperative Planning, no code yet, private env
 
-- **[arxiv:2407]** Bunny-VisionPro: Real-Time Bimanual Dexterous Teleoperation for Imitation Learning
+- **[arXiv:2405]** Hierarchical World Models as Visual Whole-Body Humanoid Controllers
+> No reward or primitive skills, Tracking World Model + Puppeteer World Model
+
+- **[arXiv:2402]** Expressive Whole-Body Control for Humanoid Robots
+> 
 
 ### Locomotion
 
