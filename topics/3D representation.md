@@ -31,6 +31,12 @@
 
 * **[ICRA'23]**  Ditto in the house: Building articulation models of indoor scenes through interactive perception
 
+* **[ICRA'23]** EquivAct: SIM(3)-Equivariant Visuomotor Policies beyond Rigid Object Manipulation
+> employs a contrastive loss based on invariant point features, yielding equivariant global and local features as output.
+
+* **[arXiv:2407]** EquiBot: SIM(3)-Equivariant Diffusion Policy for Generalizable and Data Efficient Learning
+> Use a SIM(3)-Equivariant encoder for diffusion policy
+
 # NeRF
 
 * **[ICCV'21 Oral]** Baking Neural Radiance Fields for Real-Time View Synthesis
