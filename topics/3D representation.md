@@ -86,6 +86,8 @@
 
 # Gaussian Splatting
 
+* **[arxiv'2403]** DN-Splatter: Depth and Normal Priors for Gaussian Splatting and Meshing
+> Omnidata for normal, Zoedepth for depth, good indoor reconstruction results
 
 # 4D Gaussian Splatting
 
