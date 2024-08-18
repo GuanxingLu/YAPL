@@ -100,6 +100,9 @@
 * **[arXiv:2309]** GELLO: A General, Low-Cost, and Intuitive Teleoperation Framework for Robot Manipulators
 > bimanual data collection system, used by VoxAct-B
 
+* **[ICRA'2020]** Efficient Bimanual Manipulation Using Learned Task Schemas
+> Like 'SkillDiffuser', assign different subtasks (skills) for different arms.
+
 Conclusion: Try to separate the visual observation of both arms.
 
 ### Planning
