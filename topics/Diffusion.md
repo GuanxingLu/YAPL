@@ -45,6 +45,9 @@ DiffuseLoco: Real-Time Legged Locomotion Control with Diffusion from Offline Dat
 * **[arXiv:2403]** DNAct: Diffusion Guided Multi-Task 3D Policy Learning
 > Similarity in multi-task demonstrations -> Diffusion
 
+* **[]** Diff-Control: A Stateful Diffusion-based Policy for Imitation Learning
+> Use a_t-1 as ControlNet's condition to ensure action consistency.
+
 ## Trajectory
 
 * **[ICRA'24]** Robot Trajectron: Trajectory Prediction-Based Shared Control for Robot Manipulation
