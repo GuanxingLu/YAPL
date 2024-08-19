@@ -89,6 +89,9 @@
 * **[arxiv'2403]** DN-Splatter: Depth and Normal Priors for Gaussian Splatting and Meshing
 > Omnidata for normal, Zoedepth for depth, good indoor reconstruction results
 
+* **[arxiv'2407]** WildGaussians: 3D Gaussian Splatting in the Wild
+> It jointly optimizes DINO-based [22] uncertainty predictor to handle occlusions
+
 # 4D Gaussian Splatting
 
 Ref: https://github.com/MrNeRF/awesome-3D-gaussian-splatting?tab=readme-ov-file#dynamics-and-deformation
