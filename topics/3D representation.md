@@ -155,3 +155,8 @@ Photo-Realistic Free-Viewpoint Videos
 
 * **[CVPR'24 Highlight]** PhyScene: Physically Interactable 3D Scene Synthesis for Embodied AI
 > Retrieve articulated objects from GAPartNet Dataset and simulate generated scenes in Omniverse Isaac Sim.
+
+# Applications (APP)
+* Polycam
+* AR Code
+* Luma
