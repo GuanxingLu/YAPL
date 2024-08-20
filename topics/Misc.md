@@ -14,3 +14,5 @@
 * **[CoRL'23]** An Unbiased Look at Datasets for Visuo-Motor Pre-Training
 > no ego4d, but classical datasets are better
 
+* **[arXiv:2405]** Evaluating Real-World Robot Manipulation Policies in Simulation
+> Google SIMPLER, use system identification (SysID) loss to tune PID parameters.
