@@ -70,6 +70,9 @@
 * **[RSS'24]** Reconciling Reality Through Simulation: A Real-to-Sim-to-Real Approach for Robust Manipulation
 
 * **[ICLR'24 Oral]** ASID: ACTIVE EXPLORATION FOR SYSTEM IDENTIFICATION IN ROBOTIC MANIPULATION
+> (1) Train a πexp that maximizes the Fisher information in simulation. (2) Roll out πexp in real to collect informative data that can be used to (3) run system identification to identify physics parameters and reconstruct, e.g., geometric,
+collision, and kinematic properties. (4) Train a task-specific policy πtask in the updated simulator and (5) zero-
+shot transfer πtask to the real world.
 
 * **[DGR@RSS2024]** Scaling Robot-Learning by Crowdsourcing Simulation Environments
 
