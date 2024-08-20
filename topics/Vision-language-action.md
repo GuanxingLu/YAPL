@@ -21,6 +21,10 @@ Contact Synthesis with Arbitrary Objects and Robots
 
 * **CoRL'23** SayPlan: Grounding Large Language Models using 3D Scene Graphs for Scalable Robot Task Planning
 
+## Vision-language Manipulation
+* **[RSS'24]** Manipulate-Anything: Automating Real-World Robots using Vision-Language Models 
+> 1. VLM identifies objects and determines sub-goals. 2. action generation module. 3. sub-goal verification module for error recovery. Filter the trajectories to obtain successful demonstrations for downstream policy training. 
+
 ## Large-scale Robotic Datasets
 
 * DROID: A Large-Scale In-The-Wild Robot Manipulation Dataset
