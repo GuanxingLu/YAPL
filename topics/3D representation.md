@@ -7,6 +7,9 @@
 
 * **[IJRR'12]** Rgb-d mapping: Using kinectstyle depth cameras for dense 3d modeling of indoor environments
 
+* **[CVPR'16]** Structure-from-Motion Revisited
+> COLMAP, used by NeRF-DS dataset for dynamic sparse reconstruction.
+
 * **[CVPR'21]** LASR: Learning Articulated Shape Reconstruction from a Monocular Video
 >  Given a monocular video of an object, we jointly recover the object’s rest shape S, skinning weights W, articulation Dt, and camera parameters Kt by solving an inverse graphics problem through gradient-based optimization.
 
