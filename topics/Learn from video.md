@@ -26,3 +26,5 @@
 * **[ICLR'24 Outstanding]** Learning Interactive Real-World Simulators
 > UniSim, given o_{t-1} and a_{t-1), predict o_t
 
+* **[NeurIPS'19]** Learning to Predict Without Looking Ahead: World Models Without Forward Prediction
+> A world model can be quite wrong, so long as it is wrong in the right way
