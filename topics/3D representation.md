@@ -144,7 +144,7 @@ Photo-Realistic Free-Viewpoint Videos
 
 * **[arXiv:2403]** Near Real-Time SE(3)-Equivariant Robot Manipulation without Point Cloud Segmentation
 * **[ICRA'24]** Point Cloud Models Improve Visual Robustness in Robotic Learners
-> More robust to DreamerV3 in viewpoint by using point cloud world model (PCWM)
+> More robust to DreamerV3 in viewpoint by using point cloud world model (PCWM) in latent space.
 
 # LLM Code
 
