@@ -34,3 +34,6 @@
 
 * **[ECCV'24]** OccWorld: Learning a 3D Occupancy World Model for Autonomous Driving
 > A 3D occupancy scene tokenizer + GPT-2, W(y^T, ..., y^T-t ; p^T, ..., p^T-t) = y^T+1, p^T+1
+
+* **[arXiv:2408]** DIFFUSION MODELS ARE REAL-TIME GAME ENGINES
+> 20 FPS, Diffusion on RL collections, ~30 PSNR. Noise augmentation to achieve auto-regressive generation.
