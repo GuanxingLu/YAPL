@@ -31,3 +31,6 @@
 
 * **[NeurIPS'19]** Learning to Predict Without Looking Ahead: World Models Without Forward Prediction
 > A world model can be quite wrong, so long as it is wrong in the right way
+
+* **[]** OccWorld: Learning a 3D Occupancy World Model for Autonomous Driving
+> A 3D occupancy scene tokenizer + GPT-2, W(y^T, ..., y^T-t ; p^T, ..., p^T-t) = y^T+1, p^T+1
