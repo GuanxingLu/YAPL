@@ -16,3 +16,6 @@
 
 * **[arXiv:2405]** Evaluating Real-World Robot Manipulation Policies in Simulation
 > Google SIMPLER, use system identification (SysID) loss to tune PID parameters.
+
+* **[]** HybVIO: Pushing the Limits of Real-time Visual-inertial Odometry
+> off-the-shelf Visual-Inertial Odometry (VIO) method to get camera pose in real-time.
