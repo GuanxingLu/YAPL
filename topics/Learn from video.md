@@ -37,3 +37,10 @@
 
 * **[arXiv:2408]** DIFFUSION MODELS ARE REAL-TIME GAME ENGINES
 > 20 FPS, Diffusion on RL collections, ~30 PSNR. Noise augmentation to achieve auto-regressive generation.
+
+* **[SIGGRAPH'22]** Physics-based Character Controllers Using Conditional VAEs
+> World Model for motion generation.
+
+* **[Siggraph Asia'22]** ControlVAE: Model-Based Learning of Generative Controllers for Physics-Based Characters
+> World Model for motion generation.
+
