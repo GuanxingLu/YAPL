@@ -23,6 +23,9 @@
 
 * **[NeurIPS'18 Oral]** Recurrent World Models Facilitate Policy Evolution
 
+* **[ICCV'21]** Pathdreamer: A World Model for Indoor Navigation
+> Observations also include depth and segmentations.
+
 * **[ICLR'24 Outstanding]** Learning Interactive Real-World Simulators
 > UniSim, given o_{t-1} and a_{t-1), predict o_t
 
