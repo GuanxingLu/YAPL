@@ -33,6 +33,11 @@ MOdel:
 - **[arXiv:2403]** DexCap: Scalable and Portable Mocap Data Collection System for Dexterous Manipulation
 > Glove, human-in-the-loop correction
 
+- **[arXiv:2403]** H2O: Learning Human-to-Humanoid Real-Time Whole-Body Teleoperation
+> Learning-based lower body control.
+- **[arXiv:2406]** OmniH2O: Universal and Dexterous Human-to-Humanoid Whole-Body Teleoperation and Learning
+> + upper body retargeting.
+
 Question:
 - Is there any common metric to choose the most suitable one?
 
