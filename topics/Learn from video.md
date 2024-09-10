@@ -19,6 +19,9 @@
 * **[CoRL'23]** MimicPlay: Long-Horizon Imitation Learning by Watching Human Play
 > Large human video -> latent plan, GMM decoder + small robot data
 
+* **[]** Robot Utility Models General Policies for Zero-Shot Deployment in New Environments
+> Stick v2 gripper collection system.
+
 # World Model
 
 * **[NeurIPS'18 Oral]** Recurrent World Models Facilitate Policy Evolution
