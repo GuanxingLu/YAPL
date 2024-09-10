@@ -2,9 +2,36 @@
 
 ## Teleoperation
 
-- **[arxiv:2407]** Bunny-VisionPro: Real-Time Bimanual Dexterous Teleoperation for Imitation Learning
+History:
+In the 1950s, remote control was used to complete tasks in dangerous environments such as nuclear power plants. [source]
+Institute:
+CMU, Stanford, UCSD
+Hardware:
+- Bimanual
+- Whole-body
+System:
+- Passive vision
+- Glove-based
+- Passive + haptic feedback
+- Active vision
+- Passive vision + Exoskeletons
+MOdel:
+- Joint-matching (ALOHA series)
+- Vision + retargeting
+- Vision + IK + lower-body controller
+- Vision + learning-based whole-body controller
 
+- **[IEEE-RAS International Conference on Humanoid Robots'23]** Deep Imitation Learning for Humanoid Loco-manipulation through Human Teleoperation
+> gripper, whole-body control (but classic controller for legs).
+- **[RSS'23]** AnyTeleop: A General Vision-Based Dexterous Robot Arm-Hand Teleoperation System
+> (ANY) Passive camera, pose estimation, vision+retargeting (Sequential Quadratic Programming SQP, Pinocchio), dexterous hand, motion generation~arm IK (Riemannian motion policies RMP).
+- **[arxiv:2407]** Bunny-VisionPro: Real-Time Bimanual Dexterous Teleoperation for Imitation Learning
+> Active vision (Vision-pro), haptic feedback, (gradient from active to passive) loop joint retargeting, (Jacobian) singularity avoidance, (sphere) collision avoidance.
 - **[arXiv:2407]** Open-TeleVision: Teleoperation with Immersive Active Visual Feedback.
+> Active vision action space, a head-mounted camera on robot, remote control.
+- **[]**  Dexterous Teleoperation
+- DexCap:
+> Glove
 
 ## Mobile Manipulation
 
