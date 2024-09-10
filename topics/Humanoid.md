@@ -29,9 +29,12 @@ MOdel:
 > Active vision (Vision-pro), haptic feedback, (gradient from active to passive) loop joint retargeting, (Jacobian) singularity avoidance, (sphere) collision avoidance.
 - **[arXiv:2407]** Open-TeleVision: Teleoperation with Immersive Active Visual Feedback.
 > Active vision action space, a head-mounted camera on robot, remote control.
-- **[]**  Dexterous Teleoperation
-- DexCap:
-> Glove
+- **[RSS'02]** Multi-fingered exoskeleton haptic device using passive force feedback for dexterous teleoperation
+- **[arXiv:2403]** DexCap: Scalable and Portable Mocap Data Collection System for Dexterous Manipulation
+> Glove, human-in-the-loop correction
+
+Question:
+- Is there any common metric to choose the most suitable one?
 
 ## Mobile Manipulation
 
