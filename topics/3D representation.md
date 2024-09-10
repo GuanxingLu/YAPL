@@ -84,6 +84,9 @@ shot transfer πtask to the real world.
 * **[CVPR'22 Oral]** Ditto: Building Digital Twins of Articulated Objects from Interaction
 >  Given visual observations before and after interaction, our method jointly reconstructs the part-level geometry and articulation model of the object.
 
+* **[arXiv:2409]** View-Invariant Policy Learning via Zero-Shot Novel View Synthes
+> Use ZeroNVS to augment offline demonstrations (like SE3 augmentation with gripper and camera pose).
+
 # NeRF for navigation
 
 * **[ICCV'23 NeRF4ADR Workshop]** AutoNeRF: Training Implicit Scene Representations with Autonomous Agents
