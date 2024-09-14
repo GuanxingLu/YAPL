@@ -140,6 +140,9 @@ Question:
 * **[ICRA'2020]** Efficient Bimanual Manipulation Using Learned Task Schemas
 > Like 'SkillDiffuser', assign different subtasks (skills) for different arms.
 
+* **[RA-L'24]** A Comparison of Imitation Learning Algorithms for Bimanual Manipulation
+> ACT and DP are the best.
+
 Conclusion: Try to separate the visual observation of both arms.
 
 ### Planning
