@@ -77,6 +77,8 @@ Question:
 
 * **[arXiv:2405]** Empowering Embodied Manipulation: A Bimanual-Mobile Robot Manipulation Dataset for Household Tasks, no code yet
 
+* **[IROS'22]** A System for Imitation Learning of Contact-Rich Bimanual Manipulation Policies
+
 * **[2021]** The KIT Bimanual Manipulation Dataset
 > Video
 
