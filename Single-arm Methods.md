@@ -8,10 +8,13 @@
 - RVT
 - SGRv2
 - SGR
+- PolarNet
+- Hiveformer
+- Perceiver-Actor (PerAct)
+- C2FARM
+
 - GNFactor
 - ManiGaussian
-- Perceiver-Actor
-- C2FARM
 
 - Diffusion Policy
 - ACT
