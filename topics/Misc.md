@@ -19,3 +19,6 @@
 
 * **[]** HybVIO: Pushing the Limits of Real-time Visual-inertial Odometry
 > off-the-shelf Visual-Inertial Odometry (VIO) method to get camera pose in real-time.
+
+* **[arXiv'2409]** Robot Learning as an Empirical Science: Best Practices for Policy Evaluation
+> Failure but what is the error mode?
