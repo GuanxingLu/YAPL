@@ -87,6 +87,9 @@ shot transfer πtask to the real world.
 * **[arXiv:2409]** View-Invariant Policy Learning via Zero-Shot Novel View Synthes
 > Use ZeroNVS to augment offline demonstrations (like SE3 augmentation with gripper and camera pose).
 
+* **[arXiv'2409]** ACDC: Automated Creation of Digital Cousins for Robust Policy Learning
+> Use LLM to find the most similiar 3D model.
+
 # NeRF for navigation
 
 * **[ICCV'23 NeRF4ADR Workshop]** AutoNeRF: Training Implicit Scene Representations with Autonomous Agents
