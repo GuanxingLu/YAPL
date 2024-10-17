@@ -158,6 +158,8 @@ Conclusion: Try to separate the visual observation of both arms.
 ### Locomotion
 
 - **[RSS'24 Outstanding Nominee]** Advancing Humanoid Locomotion: Mastering Challenging Terrains with Denoising World Model Learning
+- humanoid locomotion as next token prediction
+- Learning Humanoid Locomotion over Challenging Terrain
 
 ### Sim-to-Real
 
