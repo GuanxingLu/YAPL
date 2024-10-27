@@ -47,3 +47,9 @@
 * **[Siggraph Asia'22]** ControlVAE: Model-Based Learning of Generative Controllers for Physics-Based Characters
 > World Model for motion generation.
 
+# Subgoal Planning
+* **[NeurIPS'24]** Closed-Loop Visuomotor Control with Generative Expectation for Robotic Manipulation
+> Imagen with optical flow and depth guidance. Measurement -> Decoder -> Action. CALVIN
+
+
+
