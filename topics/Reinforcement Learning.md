@@ -8,3 +8,10 @@
 ## Large Language Models
 * **[RSS'24]** The Art of Imitation: Learning Long-Horizon Manipulation Tasks from Few Demonstrations
 > Reward-aware physics prior (a domain randomization range that is feasible for the current policy) + LLM select
+
+## Reinforcement Learning with Transformers
+* **[ICML'20]** Stabilizing Transformers for Reinforcement Learning
+* **[TMLR'23]** A Survey on Transformers in Reinforcement Learning
+* **[Github]** Syllabus
+| Syllabus is an API for designing curricula for reinforcement learning agents, as well as a framework for synchronizing those curricula across environments running in multiple processes.
+
