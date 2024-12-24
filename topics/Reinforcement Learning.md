@@ -22,3 +22,10 @@
 
 ## Reward Model
 * **[NeurIPS'24]** On The Fragility of Learned Reward Functions
+
+## Reinforcement Learning
+* **[arXiv:1812]** Deep Reinforcement Learning and the Deadly Triad
+> Bootstrapping, Function Approximation, Off-policy
+* **[ICML'23]** Efficient Online Reinforcement Learning with Offline Data
+> RLPD, used in HIL-SERL.
+
