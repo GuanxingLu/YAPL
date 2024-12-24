@@ -16,6 +16,9 @@
 > Syllabus is an API for designing curricula for reinforcement learning agents, as well as a framework for synchronizing those curricula across environments running in multiple processes.
 * **[ICML'23]** Grounding Large Language Models in Interactive Environments with Online Reinforcement Learning
 > Also Lamorel: Language Models for Reinforcement Learning
+* **[Github]** TransformerXL as Episodic Memory in Proximal Policy Optimization
+* **[NeurIPS'21]** Decision Transformer: Reinforcement Learning via Sequence Modeling
+> Not reinforcement learning, but RL as sequence modeling (imitation learning).
 
 ## Reward Model
 * **[NeurIPS'24]** On The Fragility of Learned Reward Functions
