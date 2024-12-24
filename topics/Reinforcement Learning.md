@@ -13,5 +13,9 @@
 * **[ICML'20]** Stabilizing Transformers for Reinforcement Learning
 * **[TMLR'23]** A Survey on Transformers in Reinforcement Learning
 * **[Github]** Syllabus
-| Syllabus is an API for designing curricula for reinforcement learning agents, as well as a framework for synchronizing those curricula across environments running in multiple processes.
+> Syllabus is an API for designing curricula for reinforcement learning agents, as well as a framework for synchronizing those curricula across environments running in multiple processes.
+* **[ICML'23]** Grounding Large Language Models in Interactive Environments with Online Reinforcement Learning
+> Also Lamorel: Language Models for Reinforcement Learning
 
+## Reward Model
+* **[NeurIPS'24]** On The Fragility of Learned Reward Functions
